@@ -1,0 +1,6 @@
+/build/
+/bin/
+/depth/
+/rgb/
+/src/xtion1.cpp
+*.swp
